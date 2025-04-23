@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/JPT/Scenes/SampleScene.unity
+    path: Assets/JPT/Scenes/0.Bootstrap.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/JPT/Scenes/1.Loading.unity
+    guid: 5dd28cf4a7ea3184281c509e0205db84
+  - enabled: 1
+    path: Assets/JPT/Scenes/2.Menu.unity
+    guid: b6a5405e12a6fe241b57b05e973cf244
+  - enabled: 1
+    path: Assets/JPT/Scenes/3.Game.unity
+    guid: 1fbf896d368e54f4d88ee55c90c0c463
+  - enabled: 1
+    path: Assets/JPT/Scenes/4.Empty.unity
+    guid: dabcd43ac4ed08c45b67e2318cf89bc3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

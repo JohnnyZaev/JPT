@@ -1,6 +1,6 @@
 ﻿using UnityEngine.SceneManagement;
 
-namespace JPT.Scripts.Runtime.Utilities
+namespace Eredfall.JPT.Runtime.Utilities
 {
     public static class RuntimeConstants
     {

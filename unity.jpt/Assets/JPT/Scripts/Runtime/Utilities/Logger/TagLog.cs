@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace JPT.Scripts.Runtime.Utilities.Logger
+namespace Eredfall.JPT.Runtime.Utilities
 {
     public sealed class TagLog
     {

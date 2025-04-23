@@ -1,9 +1,8 @@
 ﻿using Cysharp.Threading.Tasks;
-using JPT.Scripts.Runtime.Utilities.Logger;
 using UnityEngine.SceneManagement;
 using UnitySceneManager = UnityEngine.SceneManagement.SceneManager;
 
-namespace JPT.Scripts.Runtime.Utilities
+namespace Eredfall.JPT.Runtime.Utilities
 {
     public class SceneManager
     {

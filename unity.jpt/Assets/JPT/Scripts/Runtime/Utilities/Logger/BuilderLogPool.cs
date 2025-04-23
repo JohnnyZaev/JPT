@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace JPT.Scripts.Runtime.Utilities.Logger
+namespace Eredfall.JPT.Runtime.Utilities
 {
     public sealed class BuilderLogPool
     {

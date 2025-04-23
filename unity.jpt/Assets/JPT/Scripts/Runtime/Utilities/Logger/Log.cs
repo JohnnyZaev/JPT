@@ -1,4 +1,4 @@
-﻿namespace JPT.Scripts.Runtime.Utilities.Logger
+﻿namespace Eredfall.JPT.Runtime.Utilities
 {
     public static class Log
     {
